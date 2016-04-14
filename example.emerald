@@ -1,0 +1,13 @@
+-- W00T!
+
+funct english_greeting
+    printit "Hello World!" -- inline comment
+end
+
+funct return_one
+    return 1
+end
+
+funct return_true
+    return true
+end
