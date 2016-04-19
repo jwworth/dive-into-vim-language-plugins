@@ -8,6 +8,17 @@ The subject is Vim Language plugins, focusing on
 
 A fictional language is discussed, called 'Emerald'.
 
+### Setup
+
+I load these slides into the buffer like so:
+
+```
+$ vim slides/*
+```
+
+Then, I advance through the deck with `:bn` or `]b`
+([vim-unimpaired](https://github.com/tpope/vim-unimpaired)).
+
 ### License
 
 This talk is released under the [MIT
